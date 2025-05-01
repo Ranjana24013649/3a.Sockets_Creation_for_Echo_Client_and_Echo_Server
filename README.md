@@ -1,6 +1,5 @@
 # 3a.CREATION FOR ECHO CLIENT AND ECHO SERVER USING TCP SOCKETS
-### Name : RAHUL VIJAY V
-### Register No : 212223040164
+
 # AIM
 To write a python program for creating Echo Client and Echo Server using TCP
 Sockets Links.
@@ -34,9 +33,13 @@ while True:
 ~~~
 ## OUPUT
 ### CLIENT:
-![image](https://github.com/user-attachments/assets/4a069d3c-ce94-4c24-91e9-547d10ca0fea)
+
+![client exp5](https://github.com/user-attachments/assets/4acbcc75-f5d9-4d76-b3fb-a522e31e6fd4)
+
 ### SERVER:
-![image](https://github.com/user-attachments/assets/678c965e-dcc1-4b91-9850-70050afb6ab8)
+
+![server exp5](https://github.com/user-attachments/assets/f44f3e9c-08ab-44f9-b034-b21c8d1dec7a)
+
 
 ## RESULT
 Thus, the python program for creating Echo Client and Echo Server using TCP Sockets Links 
